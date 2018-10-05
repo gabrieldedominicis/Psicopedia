@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Psicopedia</string>
+    <string name="title_activity_preguntas">preguntas</string>
+    <string name="title_activity_articulo">Articulo</string>
+</resources>
